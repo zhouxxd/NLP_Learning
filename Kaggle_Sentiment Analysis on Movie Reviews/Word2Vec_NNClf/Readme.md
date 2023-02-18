@@ -5,7 +5,7 @@
 \
 使用神经网络进行训练模型，进而分类\
 \
-可运行文件 : Word2Vec_NN.ipynb     Word2Vec_NN_dataaug.ipynb     Word2Vec_词频统计_加权重_NN.ipynb      Word2Vec_词频统计_加特征_NN.ipynb\
+可运行文件 : Word2Vec_NN.ipynb        Word2Vec_NN_dataaug.ipynb      Word2Vec_词频统计_加权重_NN.ipynb      Word2Vec_词频统计_加特征_NN.ipynb\
 kaggle上面的分数都在**0.62**左右\
 \
 对数据进行预处理，使用空格分词，之后使用glove词表将句子转换成一维向量\
