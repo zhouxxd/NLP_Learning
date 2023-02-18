@@ -5,5 +5,6 @@
 \
 使用word2vec + 神经网络 ：Word2Vec_NNClf  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 分数**0.622**\
 \
-使用huggingface上面预训练好的bert模型
+\
+使用huggingface上面预训练好的bert-tiny模型  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 分数**0.636**
 
