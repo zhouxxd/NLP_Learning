@@ -6,4 +6,4 @@
 \
 \
 \
-glove.6B.300d.txt 文件下载地址： https://nlp.stanford.edu/projects/glove/ 
+Word2Vec词表文件glove.6B.300d.txt 文件下载地址： https://nlp.stanford.edu/projects/glove/ 
