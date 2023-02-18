@@ -4,5 +4,5 @@
 \
 使用word2vec + 神经网络 \
 \
-使用huggingface上面预训练好的bert模型\
+使用huggingface上面预训练好的bert模型
 
