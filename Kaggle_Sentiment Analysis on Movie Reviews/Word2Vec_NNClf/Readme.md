@@ -20,4 +20,4 @@ kaggle上面的分数都在**0.62**左右\
 **Word2Vec_词频统计_加特征_NN.ipynb**  ：将显著性词语做成一个one-hot向量，检测句子中是否出现对应的关键词并更新该向量，以该向量作为特征连接到词向量后面\
 \
 \
-**glove.6B.300d.txt** 文件下载地址： https://nlp.stanford.edu/projects/glove/   
+Word2Vec词表文件**glove.6B.300d.txt** 文件下载地址： https://nlp.stanford.edu/projects/glove/   
