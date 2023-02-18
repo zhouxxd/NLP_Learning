@@ -2,11 +2,13 @@
 \
 \
 \
-安装Transformers库\
+安装Transformers库
 <pre>
 pip install transformers
 </pre>
 \
-**运行bert-tiny.ipynb**
+**运行bert-tiny.ipynb** \
+\
+分数**0.6438** 
 
 
