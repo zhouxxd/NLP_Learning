@@ -9,4 +9,4 @@
 使用huggingface上面预训练好的bert-tiny模型 : Huggingface_Bert   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 分数**0.6438**\
 \
 \
-使用huggingface上面预训练好的bert-medium模型 : Huggingface_Bert   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 分数**0.6807**\
+使用huggingface上面预训练好的bert-medium模型 : Huggingface_Bert   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 分数**0.6807**
